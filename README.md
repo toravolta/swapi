@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Dependencies
 
-React router
-Axios
+React router<br />
+Axios <br />
 Uuidv4
 
 ## Available Scripts
